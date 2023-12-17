@@ -10,9 +10,11 @@ Bu programın kötü niyetli kullanımı yasaktır ve yasa dışı olabilir. Bu 
 
 Tokeninizi kurulumu yaptıktan sonra kopyalayınız
 
+<!--
 ## 📸 Ekran Görüntüsü
 
 ![Ekran Görüntüsü](img/image.png)
+-->
 
 ## 🔧 Kurulum
 
