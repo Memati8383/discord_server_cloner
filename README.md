@@ -1,10 +1,14 @@
-# 📱 Sms Bomber
+# 📱 Discord Server Cloner
 
-Bu program ile SMS mesajlarını hızlı bir şekilde belirlediğiniz numaralara gönderebilirsiniz. Birden fazla numaraya aynı anda veya tek bir numaraya SMS gönderme seçeneğiniz bulunuyor.
+Bu program ile istedğiniz discord sunucusunu kopyalayabilirsiniz.
 
 ## ⚠️ Güvenlik Uyarısı
 
 Bu programın kötü niyetli kullanımı yasaktır ve yasa dışı olabilir. Bu programı yasal ve etik sınırlar içinde kullanın. Programın kullanımından doğacak sorumluluklar size aittir.
+
+## ⚠️ Önemli uyarı
+
+Tokeninizi kurulumu yaptıktan sonra kopyalayınız
 
 ## 📸 Ekran Görüntüsü
 
@@ -15,27 +19,28 @@ Bu programın kötü niyetli kullanımı yasaktır ve yasa dışı olabilir. Bu 
 Aşağıdaki komutları kullanarak programı kurabilirsiniz:
 
 ```bash
-rm -fr sms
-git clone https://github.com/Memati8383/sms.git
-cd sms
-pip install -r requirements.txt
+rm -fr discord_server_cloner
+git clone https://github.com/Memati8383/discord_server_cloner.git
+cd discord_server_cloner
 python main.py
 ```
 
-## 📋 Kullanım Talimatları
+## 📋 Discord token alma
 
-1. Program başladığında aşağıdaki seçeneklerden birini seçin:
-   - Tek bir numaraya SMS gönder
-   - Birden fazla numaraya SMS gönder
+1. Kiwi Browser indirme
+   - Google play store ye girin ve kiwi browseri indirin
+   - discord.com adresine gidip discord hesabınıza giriş yapın
+     
+2. Token alma
+   - yeni bir sekme açıp token extractor eklentisini kurun
+   - token extractor eklentisini açın ve tokeninizi kopyalayın
 
-2. "Tek bir numaraya SMS gönder" seçeneğini seçerseniz:
-   - Hedef telefon numarasını girin
-   - Eğlenin... :)
+3. Uygulamayı başlatma
+   - Termuxa girin ve "kurulum" bölümünde yazan kodları termuxa yapıştırın
+   - Kopyaladığınız tokeni ekrana yapıştırın
+   - ardından kopyalamak istediğiniz sunucunun id sini yazın
+   - yapıştırmak istediğiniz sunucunun id sini yazın
 
-3. "Birden fazla numaraya SMS gönder" seçeneğini seçerseniz:
-   - Birden fazla isimlerini ve numarayı ekleyin
-   - Eğer daha fazla eklemek istemiyorsanız `q` basın
-   - Eğlenin... :)
 
 ## 📚 Bilgi
 
@@ -47,7 +52,7 @@ Eğer herhangi bir sorunuz, geri bildiriminiz veya işbirliği teklifiniz varsa,
 
 - **E-posta**: [Mail Adresim](mailto:akdemirferit608@gmail.com)
 - **GitHub**: [GitHub Profilim](https://github.com/Memati8383)
-- **LinkedIn**: [Instagram Profilim](https://www.instagram.com/ferit22901)
+- **Instagram**: [Instagram Profilim](https://www.instagram.com/ferit22901)
 - **Discord Sunucu**: [Discord Sunucum](https://discord.gg/HAD7YTgu)
 - **Discord**: ***esatoktay_yldrn***
 
